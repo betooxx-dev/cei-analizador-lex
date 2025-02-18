@@ -1,0 +1,5 @@
+if (edad >= 18 && país == "México") {
+    string mensaje = "Puede votar";
+} else {
+    string mensaje = 'No puede votar';
+}

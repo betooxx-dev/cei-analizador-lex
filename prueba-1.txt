@@ -1,0 +1,5 @@
+
+float calcularPromedio(float número1, float número2, float número3) {
+    float suma = número1 + número2 + número3;
+    return suma / 3.0;
+}

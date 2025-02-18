@@ -1,0 +1,12 @@
+int númeroÑandú = 42;
+float piΠ = 3.14159;
+string resultadoλ = "";
+
+if (númeroÑandú <= 50 || piΠ != 3.0) {
+    resultadoλ = "Condición verdadera";
+}
+
+/* Probando diferentes
+   tipos de
+   operadores */
+int resultado = (númeroÑandú * 2) - (10 / 2);
